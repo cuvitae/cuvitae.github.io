@@ -1,0 +1,49 @@
+contactInfo:
+  name: Amaury Diaz
+  profession: Full-Stack Software Engineer
+  picture: /example/profile.jpeg
+  birthday: May 24th, 1995
+  address: Frankfurt, Germany
+  email: amauryuh@gmail.com
+  phone: +49 (172) 174 5934
+  website: hire-me-v2.github.io
+  linkedin: www.linkedin.com/in/amaury95
+  github: www.github.com/amaury95
+
+summary: A dedicated professional with a passion for technology and a proven track record of excellence
+
+education:
+  - institution: University of XYZ
+    degree: Bachelor of Science
+    major: Computer Science
+    graduationDate: May 20XX
+    location: City, Country
+    honors:
+      - Honors 1
+      - Honors 2
+
+workExperience:
+  - position: Software Engineer
+    company: TechCorp Inc.
+    location: City, Country
+    startDate: June 20XX
+    endDate: Present
+    responsibilities:
+      - Developing and maintaining web applications using React and Node.js.
+      - Collaborating with cross-functional teams to deliver high-quality software products.
+
+skills:
+  - name: JavaScript
+    level: 99
+  - name: React
+    level: 80
+  - name: Node.js
+    level: 50
+
+projects:
+  - title: E-commerce Website
+    description: Built a fully functional e-commerce website with payment integration.
+    technologies:
+      - React
+      - Node.js
+      - MongoDB
