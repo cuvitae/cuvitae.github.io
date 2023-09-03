@@ -10,17 +10,16 @@ contactInfo:
   linkedin: https://linkedin.com/in/amaury95
   github: https://github.com/amaury95
 
-summary: A dedicated professional with a passion for technology and a proven track record of excellence
+summary: I am a highly skilled Full Stack Software Developer with a strong focus on cutting-edge technologies and a passion for innovation. My specialization includes the MERN Stack, GoLang, Blockchain development with Solidity, REST, gRPC, GraphQL, AWS, Docker, CI/CD pipelines, and Agile Scrum methodologies. I am committed to delivering high-quality, scalable, and secure software solutions that drive business success.
 
 education:
   - institution: University of Havana
-    degree: Bachelor of Science
+    degree: B.Sc.
     major: Computer Science
     graduationDate: June 2019
     location: Havana, Cuba
     achievements:
-      - Honors 1
-      - Honors 2
+      - Degree Thesis on creation of a consensus algorithm capable of guaranteeing the security and traceability of Bitcoin Protocol without the use of Proof of Work, focused on solving centralisation, scalability and environmental problems. The result was praised by the thesis tribunal obtaining the maximum qualification.
 
 workExperience:
   - position: Software Engineer
@@ -40,10 +39,13 @@ skills:
     level: 50
 
 projects:
-  - title: E-commerce Website
-    description: Built a fully functional e-commerce website with payment integration.
-    link: https://google.com
+  - title: Security Token Dapp
+    description: Decentralized application and marketplace for security tokens. It allows regular users to enter the security tokens ecosystem and issue their own security tokens.
+    link: https://security-token.github.io
     technologies:
-      - React
-      - Node.js
-      - MongoDB
+      - React.JS
+      - IPFS
+      - Ethereum
+      - Ethers.JS
+      - Infura
+      - Magic.Link
